@@ -50,7 +50,7 @@
     "tsup": "^6.5.0",
     "typescript": "^5.0.4",
     "viem": "~0.3.35",
-    "vite": "^4.0.4",
+    "vite": "^4.2.3",
     "vitest": "^0.31.1"
   },
   "simple-git-hooks": {
